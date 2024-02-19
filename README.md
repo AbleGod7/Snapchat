@@ -1,0 +1,2 @@
+# Snapchat
+Auto view story
